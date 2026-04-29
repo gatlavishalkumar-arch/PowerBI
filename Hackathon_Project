@@ -1,0 +1,83 @@
+# 📊 Power BI Hackathon Project — Interactive Dashboard
+
+An interactive **Power BI Dashboard** built during a Hackathon that provides
+real-time data visualization and business insights through dynamic reports.
+
+---
+
+## 🔗 Live Dashboard
+
+| Item | Link |
+|------|------|
+| 🔗 **Live Dashboard** | [Click here to view on Power BI](<iframe title="Hackathon_Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmQ4ZjU2Y2EtMzcwMC00NWRmLWEwM2ItMTE2OWQ5OWY3ODQwIiwidCI6Ijg4Zjk0NGQwLTEyNzgtNDVmOS04OGQ4LWRjODFiNWY3N2IxNyJ9" frameborder="0" allowFullScreen="true"></iframe>) |
+| 📥 **Download File** | 
+
+ |
+
+---
+
+## 📌 Project Overview
+
+This dashboard was built as part of a **Hackathon challenge** to demonstrate
+data storytelling and visualization skills using **Microsoft Power BI**.
+It transforms raw data into meaningful insights through interactive visuals.
+
+---
+
+## 🖼️ Dashboard Screenshot
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Microsoft Power BI** — Dashboard & visualization
+- **Power Query** — Data transformation & cleaning
+- **DAX** — Calculated measures & KPIs
+- **Data Modeling** — Relationships & schema design
+
+---
+
+## 📊 Key Features
+
+- ✅ Interactive **filters & slicers** for dynamic analysis
+- ✅ **KPI cards** showing key business metrics
+- ✅ **Charts & graphs** for trend analysis
+- ✅ **Drill-through** capability for detailed insights
+- ✅ **Mobile responsive** layout
+- ✅ Real-time **data refresh** support
+
+---
+
+## 🏗️ Dashboard Components
+
+| Component | Description |
+|-----------|-------------|
+| **KPI Cards** | High-level summary metrics |
+| **Bar/Column Charts** | Category-wise comparisons |
+| **Line Charts** | Trend analysis over time |
+| **Slicers** | Interactive data filtering |
+| **Tables** | Detailed data view |
+
+---
+
+## 📋 What This Demonstrates
+
+- ✅ **Data visualization** using Power BI
+- ✅ **DAX measures** for business calculations
+- ✅ **Power Query** for data transformation
+- ✅ **Dashboard design** best practices
+- ✅ **Data storytelling** for business insights
+- ✅ **Hackathon problem-solving** under time pressure
+
+---
+
+## 📁 Repository Structure
+---
+
+## 👨‍💻 Author
+
+**Vishal Kumar Gatla**
+Data Engineer | Power BI | Azure Data Factory | MySQL | PostgreSQL
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/gatlavishalkumar-arch)
